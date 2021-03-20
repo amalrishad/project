@@ -71,14 +71,14 @@ int main()
     
     p=0;  q=n-1;
     s=t[q]-t[p];
-	for(i=1;i<l-3;i++)		 //determining of  the minimal set
+	for(i=1;i<l-(n-1);i++)		 //determining of  the minimal set
 	{
-		j=(t[i+3]-t[i]);
+		j=(t[i+(n-1)]-t[i]);
 		if(j<s)
 		{
 			s=j;
 			p=i;
-			q=i+3;
+			q=i+(n-1);
 		}
 	}
 	
