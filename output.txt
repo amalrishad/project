@@ -1,0 +1,14 @@
+The goodies selected for distribution are: 
+
+Cult_Pass: 999
+Microwave_OvenF: 2195
+Macbook_Pro: 2799
+: 4999
+IPods: 7980
+Scale: 9800
+Sandwich_Toaster˜nH: 9999
+AlexaG: 11101
+MI_Band: 22349
+Digital_Camera: 229900
+ 
+And the difference between the chosen goodie with highest price and the lowest price is -999

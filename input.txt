@@ -1,0 +1,10 @@
+Fitbit_Plus: 7980
+IPods: 22349
+MI_Band: 999
+Cult_Pass: 2799
+Macbook_Pro: 229900
+Digital_Camera: 11101
+Alexa: 9999
+Sandwich_Toaster: 2195
+Microwave_Oven: 9800
+Scale: 4999
